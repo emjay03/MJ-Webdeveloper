@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Web-Webdeveloper/static/css/main.514b1522.css",
-    "main.js": "/Web-Webdeveloper/static/js/main.200771aa.js",
-    "static/js/787.d5b2e482.chunk.js": "/Web-Webdeveloper/static/js/787.d5b2e482.chunk.js",
-    "index.html": "/Web-Webdeveloper/index.html",
-    "main.514b1522.css.map": "/Web-Webdeveloper/static/css/main.514b1522.css.map",
-    "main.200771aa.js.map": "/Web-Webdeveloper/static/js/main.200771aa.js.map",
-    "787.d5b2e482.chunk.js.map": "/Web-Webdeveloper/static/js/787.d5b2e482.chunk.js.map"
+    "main.css": "/MJ-Webdeveloper/static/css/main.514b1522.css",
+    "main.js": "/MJ-Webdeveloper/static/js/main.f314df8d.js",
+    "static/js/787.d5b2e482.chunk.js": "/MJ-Webdeveloper/static/js/787.d5b2e482.chunk.js",
+    "index.html": "/MJ-Webdeveloper/index.html",
+    "main.514b1522.css.map": "/MJ-Webdeveloper/static/css/main.514b1522.css.map",
+    "main.f314df8d.js.map": "/MJ-Webdeveloper/static/js/main.f314df8d.js.map",
+    "787.d5b2e482.chunk.js.map": "/MJ-Webdeveloper/static/js/787.d5b2e482.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.514b1522.css",
-    "static/js/main.200771aa.js"
+    "static/js/main.f314df8d.js"
   ]
 }
