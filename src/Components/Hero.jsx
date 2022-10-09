@@ -9,7 +9,7 @@ function Hero() {
     <div className="max-w-[1140px] m-auto flex justify-center items-center text-center p-4 mt-[110px] mb-9">
       <div className="w-full flex flex-col justify-center text-center font-archivo text-color4 p-14 py-20 fd:px-0 ">
         <h1 className="py-4 md:text-4xl text-3xl font-normal">Hello, I am</h1>
-        <h3 className="md:text-6xl text-5xl  bf:text-4xl font-bold text-color4">
+        <h3 className="md:text-6xl text-5xl  gf:text-4xl font-bold text-color4">
           <Typewriter
             className="type"
             options={{

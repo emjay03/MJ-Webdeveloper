@@ -10,7 +10,7 @@ const About = () => {
       <div className="flex justify-between gap-10 p-4 flex-col mt-20 mb-9 lg:flex-row ">
         <div className="flex flex-1 mb-9 justify-center z-0 md:mb-0">
          
-            <img className="rounded-xl p-1  sm:w-[80%] md:w-[60%] lg:w-[100%] lg:h-[100%]  " src="./assets/mj.jpg" alt="mjcariso" />
+            <img className="rounded-xl p-1  sm:w-[80%] md:w-[60%] lg:w-[100%] lg:h-[100%]  " src="/assets/mj.jpg" alt="mjcariso" />
           
         </div>
 
@@ -51,7 +51,7 @@ const About = () => {
           
             <h3 className="font-archivo font-light tracking-wider text-4xl mb-7 text-left text-color4">Tech Stacks</h3>
           <div className="flex justify-center items-center">
-            <div className="  grid grid-cols-3 gap-9  gm:grid-cols-3 ss:grid-cols-6 hb:grid-cols-4 rt:grid-cols-6 cd:grid-cols-5 xr:grid-cols-4">
+            <div className="  grid grid-cols-2 gap-9 bf:grid-cols-3 ss:grid-cols-6 hb:grid-cols-4 rt:grid-cols-6 cd:grid-cols-5 xr:grid-cols-4">
               <div className="w-[120px]  bg-color1 py-3 px-7 rounded-sm">
                 <img src="./assets/tech/html.svg" width="72px" alt="html"/>
                 <div className="flex border-2  justify-center">

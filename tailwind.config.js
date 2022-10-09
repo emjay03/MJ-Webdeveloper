@@ -38,7 +38,8 @@ module.exports = {
       
       // => @media (min-width: 1536px) { ... }
       'gm': {'max': '580px'},
-      'bf': {'max': '440px'},
+      'gf': {'max': '440px'},
+      'bf': {'min': '440px'},
       'rd': {'max': '975px'},
       'fd': {'max': '767px'},
       'ki': {'min': '1057px'},
