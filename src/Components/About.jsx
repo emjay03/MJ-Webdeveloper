@@ -9,9 +9,9 @@ const About = () => {
      
       <div className="flex justify-between gap-10 p-4 flex-col mt-20 mb-9 lg:flex-row ">
         <div className="flex flex-1 mb-9 justify-center z-0 md:mb-0">
-         
-            <img className="rounded-xl p-1  sm:w-[80%] md:w-[60%] lg:w-[100%] lg:h-[100%]  " src="/assets/mj.jpg" alt="mjcariso" />
-          
+       
+            <img className="rounded-xl p-1  sm:w-[80%] md:w-[60%] lg:w-[100%] lg:h-[100%]  " src="/mj.svg" alt="mjcariso" />
+            <img src='/assets/mj.svg' />
         </div>
 
         <div className="w-full flex flex-1 flex-col  text-center lg:text-left">
