@@ -1,5 +1,10 @@
 import React from "react";
-
+import project1 from "./assets/project/project1.png";
+import project2 from "./assets/project/project2.png";
+import project3 from "./assets/project/project3.png";
+import project4 from "./assets/project/project4.jpg";
+import project5 from "./assets/project/project5.png";
+import project6 from "./assets/project/project6.png";
 const Project = () => {
   return (
     <div id="Project" className="max-w-[1140px] m-auto p-4">
@@ -15,7 +20,7 @@ These are the projects I have done
       </div>
 
       <div className="flex ki:flex-row flex-col mt-11 ">
-        <img className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project1.png"  />
+        <img className="ki:w-1/2 w-full rounded-lg" alt="" src={project1}  />
         <div className="flex items-center ml-0 ki:ml-4">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold text-xl mt-6 ki:mb-2">
@@ -55,11 +60,11 @@ These are the projects I have done
             </div>
           </div>
         </div>
-        <img className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project2.png"  />
+        <img className="ki:w-1/2 w-full rounded-lg" alt="" src={project2}   />
       </div>
 
       <div className="flex ki:flex-row flex-col mt-16 ">
-      <img className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project3.png" />
+      <img className="ki:w-1/2 w-full rounded-lg" alt="" src={project3}  />
         <div className="flex items-center  ml-0 ki:ml-4">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold text-xl mt-6 ki:mb-2">
@@ -101,11 +106,11 @@ These are the projects I have done
             </div>
           </div>
         </div>
-        <img  className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project5.png"  />
+        <img  className="ki:w-1/2 w-full rounded-lg" alt="" src={project5}  />
       </div>
 
       <div className="flex ki:flex-row flex-col mt-16 ">
-      <img  className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project6.png"  />
+      <img  className="ki:w-1/2 w-full rounded-lg" alt="" src={project6}   />
         <div className="flex items-center  ml-0 ki:ml-4">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold text-xl mt-6 ki:mb-2">
@@ -147,7 +152,7 @@ These are the projects I have done
             </div>
           </div>
         </div>
-        <img className="ki:w-1/2 w-full rounded-lg" alt="" src="./assets/project/project4.jpg"  />
+        <img className="ki:w-1/2 w-full rounded-lg" alt="" src={project4}   />
       </div>
     </div>
   );
