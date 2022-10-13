@@ -42,7 +42,7 @@ These are the projects I have done
       </div>
 
       <div className="flex ki:flex-row flex-col-reverse mt-16 ">
-        <div className="flex items-center mr-4 ">
+        <div className="flex items-center  mr-0 ki:mr-4 ">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold  text-xl mt-6 ki:mb-2">
               THE WAOFAM OFFICIAL WEBSITE CLONE
@@ -89,7 +89,7 @@ These are the projects I have done
       </div>
 
       <div className="flex ki:flex-row flex-col-reverse mt-16 ">
-        <div className="flex items-center mr-4 ">
+        <div className="flex items-center mr-0 ki:mr-4  ">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold  text-xl mt-6 ki:mb-2">
               BARANGAY MANAGEMENT SYSTEM
@@ -134,7 +134,7 @@ These are the projects I have done
 
       
       <div className="flex ki:flex-row flex-col-reverse mt-16 ">
-        <div className="flex items-center mr-4 ">
+        <div className="flex items-center mr-0 ki:mr-4 ">
           <div className="inline justify-center  items-center ">
             <h1 className="text-color4 font-sans font-semibold  text-xl mt-6 ki:mb-2">
               BARANGAY KAMUNING RECORD MANAGEMENT SYSTEM
